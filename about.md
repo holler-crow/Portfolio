@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Howdy, howdy!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am a recent Secure Computing graduate from the Virginia Polytechnic Institute and State University. While I was a student, I worked at the university's IT Security Office writing security documentation, managing the campus bug bounty program, and testing for security vulnerabilities. I love all things computer science-related, from red teaming to web development to systems architecture. I'm an attentive, hardworking person, but I also enjoy my hobbies, including playing guitar, reading, and playing video games. 
